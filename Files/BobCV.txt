@@ -1,0 +1,48 @@
+Bob Tratt CV
+BobTratt90@gmail.com
+0734561232
+Stora vreten 23, tr 4
+
+Experience
+==========
+2008--Present: Software Developer - The bigest library EVER
+I am working on web applications and related software including frontend, administration and backend software. 
+"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. 
+Day stability and security.
+
+2006--2008: Support Engineer - Burger King
+I was a Tier 3 support engineer for Comverse's messaging platform at Memmes. 
+I handled severe issues escalated from Blobs support staff and day-to-day maintenance of the platform, including on-call periods.
+
+2005--2006: Junior Developer - Evil Apple
+My work here allowed me to grow my programming experience from what I had learned at Lorem Ipsum, 
+the main programming language was C++. 
+
+
+2002-2006: IT Consultant - Hanson hospital
+My work with Hospital involved developing solutions to their needs from low-cost components and network administration. In developing their Intranet system I gained knowledge of content and management, workflow and systems integration.
+"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; 
+
+Education
+=========
+2002--2006: Bachelor of Science, Computer Science - 6 feet underground
+Papers include: Technical Writing, GUI Programming, Functional Programming, Computer Architecture, Enterprise Software Architecture
+
+2006: Bursary - Minion place
+Also achieved: Higher School Certificate, Sixth Form Certificate and School Certificate
+
+
+Technical Experience
+====================
+Extremely Proficient With
+languages:    Python, PHP, SQL, BASH, Puppet, HTML, CSS
+technologies: GNU/Linux, Zend Framework, MySQL, Symfony  Silex, Vim, HTTP, Low-level Networking
+
+Have Experience With
+languages:    Java, C, Scala, Pascal
+
+
+References
+==========
+References available upon request
+
